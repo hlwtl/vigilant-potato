@@ -1,1 +1,10 @@
-# vigilant-potato
+QQ空间访客监控提取助手是一款支持多QQ同时监控多目标访客耗费资源小的软件，支持获取本机QQ，免验证码登录功能，QQ状态保持避免重复登录，智能融入多年挂机群发经验之秘籍。
+QQ空间访客监控提取助手独家支持功能：
+1.多QQ同时在线：独家支持几十个上百QQ同时在线，耗费资源小
+2.完全原创开发：由一人开发完成，不像网络上很多软件源码卖来卖去的内部自动发广告
+3.软件同步研究：不断研究新功能和处理方式让你用起来更顺手
+4.取QQ访客：可以获取指定号码访客
+5.大量数据支持：可以支持百万数据快速保存导出￼![IMG_4649](https://github.com/user-attachments/assets/7d43105d-e97b-4d73-871e-46d4ea4cf924)
+![IMG_4648](https://github.com/user-attachments/assets/864e357d-b5c5-43e8-9c2f-9b0f3f6597f8)
+![IMG_4647](https://github.com/user-attachments/assets/4d5ff990-a803-4cd5-ac1f-ca2a3093ffea)
+![IMG_4646](https://github.com/user-attachments/assets/2bfd3993-7582-4431-9534-63eca304c4c4)
